@@ -3,10 +3,16 @@ A package designed to allow one to open a number of waveform objects saved in a 
 
 # Required Packages
 
-matplotlib
+matplotlib (3.6.2)
 
-uproot
+uproot (4.3.7)
+ 
+numpy (1.23.4)
 
-numpy
+umap (0.5.3)
 
-umap
+(Other versions will very likely be compatible)
+
+#Installation Instructions
+
+
