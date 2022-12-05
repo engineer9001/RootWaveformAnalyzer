@@ -21,7 +21,7 @@ Most important is grabRootWaveForms.py which is responsible for opening the root
 
 For other scripts, basic analyses can be conducted by simply opening the script file and replacing the <keyword> and <directory> sections for the desired keyword and directory.
  
- # Example
+ # Examples
  
  For a minimum-working example. Download the content of the Examples folder and simply run each script which will run over a small sample of waveforms and save outputs to the working directory or to a "Waveforms" sub-directory within the working directory (which you may have to create yourself depending on directory-creating permissions).
 
